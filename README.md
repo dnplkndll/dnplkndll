@@ -30,3 +30,4 @@ Python · TypeScript · Shell · Odoo · Next.js · Svelte · Kubernetes · Helm
 ---
 
 [ledoweb.com](https://ledoweb.com) · [hello@ledoweb.com](mailto:hello@ledoweb.com)
+
